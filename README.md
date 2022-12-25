@@ -89,11 +89,11 @@ It's best if you use a public communication channel whenever possible; however, 
 | 2017 | GSoC                             | 6           | 8                |
 |      | Outreachy                        | 2           |                  |
 
-### LFX (ex-Community Bridge)
+## LFX (ex-Community Bridge)
 
-#### 2022
+## 2022
 
-##### Summer
+## Summer
 
 | Mentoring Project                                                                                  | Mentor(s)                                     | Mentee                    |
 | ---                                                                                                | ---                                           | ---                       |
