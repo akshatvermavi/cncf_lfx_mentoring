@@ -5,7 +5,7 @@ Project maintainers and mentors, please submit the ideas below (under the Propos
 ### Template
 
 ```
-#### CNCF Project Name
+##### CNCF Project Name
 ##### Title
 
 - Description:
